@@ -1,0 +1,15 @@
+.cabecalho
+{
+    display: flex;
+    background-color: blueviolet;
+    color: white;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+
+}
+.fundo
+{
+    background-color: blue;
+}
