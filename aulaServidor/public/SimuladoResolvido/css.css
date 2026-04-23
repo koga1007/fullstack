@@ -1,0 +1,141 @@
+.cabecalho
+{
+    display: flex;
+    justify-content: space-around;
+}
+.Assine
+{
+    display: flex;
+    background-color: firebrick;
+    border: none;
+    width: 70px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.linha
+{
+    border: 1px solid lightgray;
+}
+.grupoE
+{
+    display: flex;
+    justify-content: flex-start;
+}
+.grupoD
+{
+    display: flex;
+    color: lightgray;
+    gap: 30px;
+    margin-right: 100px;
+    flex-wrap: wrap;
+    
+}
+.principal
+{
+    display: flex;
+    border: none;
+    align-items: center;
+    gap: 900px;
+}
+.linha-
+{
+    border-top: 1px solid lightgray;
+    width: 420px;
+    margin-top: -30px;
+    height: 0pxs;
+}
+.gap
+{
+    display: flex;
+    margin-top: -55px;
+    margin-left: 10px;
+    
+
+}
+.editor
+{
+    color: firebrick;
+    font-size: 30px;
+    text-align: center;
+}
+.imgPrincipal
+{
+    display: flex;
+    margin-left: 100px;
+
+}
+.descricao
+{
+    display: flex;
+    border: none;
+    background-color: firebrick;
+    width: 620px;
+    margin-top: -4px;
+    height: 50px;
+    gap: 10px;
+}
+.color1
+{
+    color: white;
+}
+.color2
+{
+    color: gray;
+
+
+}
+.imgMulher
+{
+    display: flex;
+    gap: 200px;
+    margin-left: 150px;
+    color: firebrick;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 13px;
+}
+.color3
+{
+    color: gray;
+    font-size: 13px;
+}
+.linha--
+{
+    border-top: 1px solid gray;
+    width: 300px;
+    height: 0pxs;
+}
+.reporter
+{
+    color: firebrick;
+    font-size: 12px;
+    flex-direction: column;
+    margin-left: 200px;
+}
+.caixa
+{
+    color: white;
+    background-color: gray;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: -8px;
+    margin-right: -8px;
+    height: 500px;
+    padding: 20px;
+}
+.caixaFinal
+{
+    background-color: lightgrey;
+    color: gray;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 150px;
+    padding: 50px;
+    background-image: none;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+}

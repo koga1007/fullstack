@@ -1,0 +1,82 @@
+ .cabecalho{
+    background: bisque;
+    display: flex;
+    font-size: 50px;
+    border: solid 2px blue;
+    color: green;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 0;
+}
+
+.sub{
+    background: skyblue;
+    display: flex;
+    font-size: 12px;
+    border: none skyblue;
+    color: darkred;
+    justify-content: center ;
+    z-index: 0;
+    gap: 150px;
+    padding: 10px;
+}
+
+.centralizar{
+    font-size: 25px;
+    color: black;
+    font: bold;
+    text-align: center;
+}
+.centralizar2{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: indigo;
+    text-align: center;
+}
+.centralizarFotos{
+    align-items: center;
+    gap: 150px;
+    justify-content: center;
+    display: flex;
+}
+.cor{
+    color: red;
+    font-size: 20px;
+}
+
+.tabela{
+    margin-left:auto;
+    margin-right:auto;
+    border-style: dashed;
+    border-color: red;
+    width: 500px;
+    height: 150px;
+    text-align: center;
+}
+.amarelo{
+    margin-left:auto;
+    margin-right:auto;
+    background-color: yellow;
+    justify-content: center;
+    border: none;
+    width: 550px;
+    height: 100px;
+    
+}
+.red{
+    color: darkred;
+    text-align: center;
+    padding: 100px;
+    font-size: 17px;
+}
+.cabecalhoFinal{
+    background: bisque;
+    display: flex;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: none;
+    color: black;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 0;
+}
